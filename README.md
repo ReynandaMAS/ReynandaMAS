@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **reynandamas28@gmail.com**
 
+- 👀 How to reach me **https://ryninfo.my.id**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/reynandamas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reynandamas" height="30" width="40" /></a>
