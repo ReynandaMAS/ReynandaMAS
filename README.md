@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reynandamas&show_icons=true&locale=en&layout=compact" alt="reynandamas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reynandamas&show_icons=true&locale=en" alt="reynandamas" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reynandamas&" alt="reynandamas" /></p>
